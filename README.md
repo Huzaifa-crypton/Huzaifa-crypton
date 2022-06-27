@@ -1,5 +1,9 @@
-### Hi there 👋
-- 👨‍🎓 Junior Year Student @UET LHR
+### Hey there 👋
+Here is a bit about me:
+- 👨‍🎓 Junior Year Student CS Undergrad
+- 💢 General Memeber @ ACM UET Chapter
+- 💡 General Memeber @ IET UET Chapter
+-  Former General Member @ UET MUN Society
 <!--
 **Huzaifa-crypton/Huzaifa-crypton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
