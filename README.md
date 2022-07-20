@@ -1,3 +1,4 @@
+![pic2](https://user-images.githubusercontent.com/78104572/179919708-d4fb4ca0-7e7d-422c-b258-661fb211be7c.jpg)
 ### Hey there 👋
 Here is a bit about me:
 - 👨‍🎓 Junior Year Student CS Undergrad
