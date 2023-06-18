@@ -1,7 +1,8 @@
-![pic2](https://user-images.githubusercontent.com/78104572/179919708-d4fb4ca0-7e7d-422c-b258-661fb211be7c.jpg)
+
+![fotis-fotopoulos-6sAl6aQ4OWI-unsplash](https://github.com/Huzaifa-crypton/Huzaifa-crypton/assets/78104572/f88fac79-9847-4354-9201-51b296a61c4b)
 ### Hey there 👋
 Here is a bit about me:
-- 👨‍🎓 Junior Year Student CS Undergrad
+- 👨‍🎓 Senior year computer science student
 - 💢 General Memeber @ ACM UET Chapter
 - 💡 General Memeber @ IET UET Chapter
 -  Former General Member @ UET MUN Society
