@@ -14,19 +14,19 @@ Currently, I am working on my FYP that is focused towards improving the health c
 
 
 💥 Here is an overview of the technologies I have worked with:
-• Coding Languages: Python, C#, C++,JavaScript, & PHP.
-• Frontend frameworks and libraries: React, Angular, Bootstrap, & Material UI.
-• Backend frameworks and libraries: Django, Flask, & Express JS.
-• AI and ML Tools: Scikit-learn, Pandas, Matplotlib, & PyTorch.
-• Source Version Tools: Git, GitHub, & GitLab.
-• Databases: MySQL, MongoDB, MSSQL, & PostgreSQL.
-• Cloud Ecosystem: Docker.
-• Project Management Tools: Monday, & Trello.
-• Development Tools: VS Code, VS Studio, Jupyter Notebook, and Google Colab.
+- Coding Languages: Python, C#, C++,JavaScript, & PHP.
+- Frontend frameworks and libraries: React, Angular, Bootstrap, & Material UI.
+- Backend frameworks and libraries: Django, Flask, & Express JS.
+- AI and ML Tools: Scikit-learn, Pandas, Matplotlib, & PyTorch.
+- Source Version Tools: Git, GitHub, & GitLab.
+- Databases: MySQL, MongoDB, MSSQL, & PostgreSQL.
+- Cloud Ecosystem: Docker.
+- Project Management Tools: Monday, & Trello.
+- Development Tools: VS Code, VS Studio, Jupyter Notebook, and Google Colab.
 
 📫 How to reach me:
-• Email: mhuzaifak.work@gmail.com
-• Linkedin: https://www.linkedin.com/in/muhammad-huzaifa-khan-ab961b228/ 
+- Email: mhuzaifak.work@gmail.com
+- Linkedin: https://www.linkedin.com/in/muhammad-huzaifa-khan-ab961b228/ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-crypton&show_icons=true&bg_color=00000000)
 
