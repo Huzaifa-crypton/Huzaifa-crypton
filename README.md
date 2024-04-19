@@ -10,11 +10,14 @@
 
 - Former Core Team Member of Google Developers Student Club UET Chapter
 - Former Member of IET - UET Lahore
+- Former Member of ACM - UET Lahore
 - Former Member of [Software Square](https://softwaresquare.csuet.com) - UET Lahore
 
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-huzaifa-khan-ab961b228)
+[![Email](https://img.shields.io/badge/Email-%37563B5.svg?logo=gmai&logoColor=white)](mhuzaifak.work@gmail.com)
+
 
 # 💻 Tech Stack:
 
@@ -43,32 +46,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Huzaifa-crypton&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Huzaifa-crypton&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 
-![](https://github-contributor-stats.vercel.app/api?username=Huzaifa-crypton&limit=5&theme=dark&combine_all_yearly_contributions=true)
-### Hey there 👋
-- 💢 General Memeber @ ACM UET Chapter
-- 🧑‍💻 General Memeber @ Software Square
-- 💡 General Memeber @ IET UET Chapter
-- 🗣️ Former General Member @ UET MUN Society
-
-
-💥 Here is an overview of the technologies I have worked with:
-- Coding Languages: Python, C#, C++,JavaScript, & PHP.
-- Frontend frameworks and libraries: React, Angular, Bootstrap, & Material UI.
-- Backend frameworks and libraries: Django, Flask, & Express JS.
-- AI and ML Tools: Scikit-learn, Pandas, Matplotlib, & PyTorch.
-- Source Version Tools: Git, GitHub, & GitLab.
-- Databases: MySQL, MongoDB, MSSQL, & PostgreSQL.
-- Cloud Ecosystem: Docker.
-- Project Management Tools: Monday, & Trello.
-- Development Tools: VS Code, VS Studio, Jupyter Notebook, and Google Colab.
-
-📫 How to reach me:
-- Email: mhuzaifak.work@gmail.com
-- Linkedin: https://www.linkedin.com/in/muhammad-huzaifa-khan-ab961b228/ 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Huzaifa-crypton&show_icons=true&bg_color=00000000)
+![](https://github-contributor-stats.vercel.app/api?username=Huzaifa-crypton&limit=5&theme=dark&combine_all_yearly_contributions=true)-->
 
 <!--
 **Huzaifa-crypton/Huzaifa-crypton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
